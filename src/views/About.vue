@@ -1,5 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <vue-headful title="ToDo - About" description="todo list" />
+    <h1>This is application for my portfolio :)</h1>
   </div>
 </template>
